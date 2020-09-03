@@ -193,8 +193,9 @@ h2 {
 }
 
 .footer-section .ready h2 {
-  font-size: 15px;
+  font-size: 13px;
   margin-top: 0;
+  text-align: center;
 }
 
 .footer-section .ready button {
