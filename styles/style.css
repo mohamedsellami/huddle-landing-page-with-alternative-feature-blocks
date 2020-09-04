@@ -193,7 +193,7 @@ h2 {
 }
 
 .footer-section .ready h2 {
-  font-size: 13px;
+  font-size: 18px;
   margin-top: 0;
   text-align: center;
 }
@@ -427,12 +427,10 @@ h2 {
   }
   .main-section .cart h2 {
     text-align: start;
-    margin-left: 100px;
   }
   .main-section .cart p {
     text-align: start;
     margin: 0;
-    margin-left: 100px;
   }
   .main-section .flowing-conversations {
     -webkit-box-orient: horizontal;
